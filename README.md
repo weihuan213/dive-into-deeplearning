@@ -1,2 +1,2 @@
 # dive-into-deeplearning
-深度入门学习笔记
+深度学习入门学习笔记
